@@ -79,7 +79,7 @@ python --version
 ### 2. Clone o repositório
 
 ```bash
-git clone https://github.com/GeorgeNascimento/doccontrol.git
+git clone https://github.com/guedesgeorge/doccontrol.git
 cd doccontrol
 ```
 
