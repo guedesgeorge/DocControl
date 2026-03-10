@@ -8,6 +8,7 @@
 
 > Sistema desktop de controle de empréstimo de documentos para o setor de licitação.
 > Interface gráfica em Python com alertas de prazo, histórico de devoluções e busca/filtros.
+> 
 
 ---
 
@@ -116,4 +117,4 @@ O banco de dados `licitacao_docs.db` será criado automaticamente na primeira ex
 
 Desenvolvido para uso interno no setor de licitação.
 
-George Guedes
+George Emannuel Guedes
