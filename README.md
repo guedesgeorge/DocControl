@@ -1,5 +1,11 @@
 # 📋 DocControl — Controle de Documentos para Licitação
 
+![Status](https://img.shields.io/badge/status-concluído-green)
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange?logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
+
 > Sistema desktop de controle de empréstimo de documentos para o setor de licitação.
 > Interface gráfica em Python com alertas de prazo, histórico de devoluções e busca/filtros.
 
@@ -72,11 +78,9 @@ python --version
 ### 2. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/doccontrol.git
+git clone https://github.com/GeorgeNascimento/doccontrol.git
 cd doccontrol
 ```
-
-Ou baixe o ZIP e extraia na pasta desejada.
 
 ### 3. Execute o sistema
 
